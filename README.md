@@ -30,4 +30,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-73db1.web.app/)
 
 ---
+
+## Project Links not on GitHub
+TPOH 2021 - https://invented-passbook-85e.notion.site/TPOH-2021-207cd4017dc1805f8decf0a24
+OnyNotes - https://github.com/Nicholas1811/onlynotes-readme/blob/main/README.md
 ✨ Thanks for visiting my profile!
