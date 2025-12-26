@@ -4,7 +4,11 @@
 - 🎓 Sophomore Software Engineering Student at SMU.
 - 💻 Interested in Full-Stack Development, Cloud Computing ☁️ and Machine Learning 🤖.
 - 👨‍🦲 Looking for a Software Engineering Interview in Summer 2026!
-- 🤔 Curious, hungry for knowledge, and my interest lies in creating solutions for people with tech! 
+- 🤔 Curious, hungry for knowledge, and my interest lies in creating solutions for people with tech!
+
+## Project Links not on GitHub
+- TPOH 2021 - https://invented-passbook-85e.notion.site/TPOH-2021-207cd4017dc1805f8decf0a24
+- OnyNotes - https://github.com/Nicholas1811/onlynotes-readme/blob/main/README.md
 
 ## 🛠️ Technologies I have worked with
 - **Frontend**:  
@@ -31,7 +35,4 @@
 
 ---
 
-## Project Links not on GitHub
-TPOH 2021 - https://invented-passbook-85e.notion.site/TPOH-2021-207cd4017dc1805f8decf0a24
-OnyNotes - https://github.com/Nicholas1811/onlynotes-readme/blob/main/README.md
 ✨ Thanks for visiting my profile!
