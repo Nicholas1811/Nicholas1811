@@ -7,7 +7,7 @@
 - 🤔 Curious, hungry for knowledge, and my interest lies in creating solutions for people with tech!
 
 ## Project Links not on GitHub
-- TPOH 2021 - https://invented-passbook-85e.notion.site/TPOH-2021-207cd4017dc1805f8decf0a24
+- TPOH 2021 - https://invented-passbook-85e.notion.site/TPOH-2021-207cd4017dc1805f8decf0a24a88d52f
 - OnyNotes - https://github.com/Nicholas1811/onlynotes-readme/blob/main/README.md
 
 ## 🛠️ Technologies I have worked with
